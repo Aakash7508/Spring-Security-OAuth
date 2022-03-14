@@ -1,13 +1,13 @@
-package com.aakash.springsecurityoauth;
+package com.aakash.SpringSecurityOAuth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityOauthApplication {
+public class SpringSecurityOAuthApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSecurityOauthApplication.class, args);
+		SpringApplication.run(SpringSecurityOAuthApplication.class, args);
 	}
 
 }

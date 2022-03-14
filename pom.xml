@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aakash</groupId>
-	<artifactId>spring-security-oauth</artifactId>
+	<artifactId>Spring-Security-OAuth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-security-oauth</name>
+	<name>Spring-Security-OAuth</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
